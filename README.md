@@ -1,4 +1,4 @@
-## Starter Template for Project
+## Starter Template for Projects
 
 ```python
 print("Hello World")
