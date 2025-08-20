@@ -1,0 +1,116 @@
+# =====================
+# OS / System Files
+# =====================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =====================
+# Secrets & Config
+# =====================
+*.env
+*.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.cer
+*.der
+
+# =====================
+# Logs & Dumps
+# =====================
+*.log
+*.out
+*.err
+*.pid
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# =====================
+# Node.js
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+package-lock.json
+
+# =====================
+# PHP / Composer
+# =====================
+vendor/
+composer.lock
+
+# =====================
+# Java / Kotlin
+# =====================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.idea/
+*.project
+*.classpath
+*.settings/
+target/
+
+# =====================
+# C / C++ / C#
+# =====================
+*.obj
+*.o
+*.so
+*.dll
+*.exe
+*.out
+*.lib
+*.a
+*.pdb
+
+# =====================
+# IDEs / Editors
+# =====================
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# =====================
+# Databases / Large Files
+# =====================
+*.sqlite
+*.db
+*.sql
+*.csv
+*.tsv
+*.mdb
+*.accdb
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# =====================
+# Jupyter / Notebooks
+# =====================
+.ipynb_checkpoints/
