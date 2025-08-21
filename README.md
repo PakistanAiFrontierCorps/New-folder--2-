@@ -1,4 +1,4 @@
-## Starter Template for Projects
+## Printing Hello World in C++ and Python
 
 ```python
 print("Hello World")
